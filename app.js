@@ -61,5 +61,5 @@ app.get("/posts/:topic", (req, res) => {
 
 
 app.listen( process.env.PORT || 3000, function () {
-  console.log("Server started succesfully");
+  console.log("Server started succesfully now you are ready to go");
 });
